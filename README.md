@@ -1,15 +1,26 @@
 ![](https://github.com/indradhar/indradhar/blob/main/INDRADHAR.png)
+
+
 ### Hi there 👋, my name is Indradhar
-#### I am a Computer Science student
-This is my github repositories where you can find some interesting projects and some research projects which are related to computer science domain. 
+#### I am a computer science student
+
+This is my github profile where you can find my repositories which are having some interesting projects and some research projects which are related to computer science domain. 
 Leave a star to my profile if it is helpful to you.
 
 Skills: C / C++ / JAVA / PYTHON 
 
-- 🔭 I’m currently working on Block chain and Fractals generation. 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/indradhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/indradhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indradhar-paka-4a1165175/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/indradhar?igshid=1kub6v58weg10/)  
 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indradhar)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar&show_icons=true)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=indradhar)  
+
+![GitHub metrics](https://metrics.lecoq.io/indradhar)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indradhar)  
+
