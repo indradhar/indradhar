@@ -17,9 +17,5 @@ Leave a star to my profile if it is helpful to you.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=indradhar)  
-
 ![GitHub metrics](https://metrics.lecoq.io/indradhar)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=indradhar)  
 
