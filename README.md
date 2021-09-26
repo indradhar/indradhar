@@ -1,7 +1,5 @@
 ![](https://github.com/indradhar/indradhar/blob/main/INDRADHAR.png)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="indradhar-paka-4a1165175" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/indradhar-paka-4a1165175?trk=profile-badge">Indradhar Paka</a></div>
-</div>
+[](https://in.linkedin.com/in/indradhar-paka-4a1165175?trk=profile-badge)
 
 ### Hi there 👋, my name is Indradhar
 #### I am a computer science student
