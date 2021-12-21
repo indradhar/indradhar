@@ -1,7 +1,7 @@
 ![](https://github.com/indradhar/indradhar/blob/main/INDRADHAR.png)
 
 
-### Hi there 👋, my name is Indradhar
+### Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> My Name is Indradhar
 #### I am a computer science student
 
 This is my github profile where you can find my repositories which are having some interesting projects and some research projects which are related to computer science domain. 
