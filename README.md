@@ -28,7 +28,9 @@ If you find my projects are helpful, then don't forget to follow me for more.
 <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
   
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indradhar&langs_count=8&theme=dark&show_icons=true" alt="deepak-perla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indradhar&theme=dark&show_icons=true" alt="deepak-perla" /></p>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar&show_icons=true&theme=radical)
 
