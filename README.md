@@ -13,11 +13,14 @@ If you find my projects are helpful, then don't forget to follow me for more.
 <a href="https://www.hackerrank.com/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="deepak0000" height="30"/></a>
 <a href="https://www.hackerearth.com/@indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@p.manideepak.19cse" height="30"  /></a>
 <a href="https://dev.to/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="deepakperla" height="30"  /></a>
+<a href="https://www.codechef.com/users/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="deepakperla" height="30"  /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
   
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="c" width="40" height="40"/> </a> 
+
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -33,6 +36,8 @@ If you find my projects are helpful, then don't forget to follow me for more.
 <br>
 
 
+<br>
+<br>
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=indradhar&no-bg=true)
   
