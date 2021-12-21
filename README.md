@@ -31,10 +31,11 @@ If you find my projects are helpful, then don't forget to follow me for more.
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indradhar&langs_count=8&theme=dark&show_icons=true" alt="deepak-perla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indradhar&theme=dark&show_icons=true" alt="deepak-perla" /></p>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indradhar)
-
+  
+  ### Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=indradhar&no-bg=true)
+  
+  ### Viewers
+![](https://komarev.com/ghpvc/?username=indradhar&color=blueviolet&label=👀👀👀)
 ![GitHub metrics](https://metrics.lecoq.io/indradhar)  
 
