@@ -15,6 +15,7 @@ If you find my projects are helpful, then don't forget to follow me for more.
 <a href="https://dev.to/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="deepakperla" height="30"  /></a>
 <a href="https://www.codechef.com/users/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)" alt="deepakperla" height="30"  /></a>
 </p>
+<br>
 <h3 align="left">Languages and Tools:</h3>
   
 <p align="left"> 
@@ -31,14 +32,20 @@ If you find my projects are helpful, then don't forget to follow me for more.
 
 <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
-  
+<br>
+<br>
+<br>  
+<h3 align="left">My GitHub Stats:</h3>  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indradhar&langs_count=8&theme=dark&show_icons=true" alt="deepak-perla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indradhar&theme=dark&show_icons=true" alt="deepak-perla" /></p>
 <br>
-
-
 <br>
 <br>
+<br>
+
+
+
+
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=indradhar&no-bg=true)
   
