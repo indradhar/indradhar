@@ -39,4 +39,5 @@ If you find my projects are helpful, then don't forget to follow me for more.
 ### Viewers
 ![](https://komarev.com/ghpvc/?username=indradhar&color=blueviolet&label=👀👀👀)
 
-
+### Metrics
+![GitHub metrics](https://metrics.lecoq.io/indradhar)  
