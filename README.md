@@ -2,15 +2,20 @@
 
 
 ### Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> My Name is Indradhar
-#### I am a computer science student
+#### Computer Science Undergrad currently working on BlockChain & Machine Leaning in parallel to WebDev
 
-This is my github profile where you can find my repositories which are having some interesting projects and some research projects which are related to computer science domain. 
-Leave a star to my profile if it is helpful to you.
+You Can Find my course projects which are related to BlockChain, Machine Learning, Vulnerability Assessment and some Research Projects in addition to that there are some proposed methodologies and concepts which are related to computer science domain. 
+If you find my projects are helpful, then don't forget to follow me for more.
 
+<h3 align="left">Feel Free to Connect with me on:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/indradhar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepak perla" height="30"/></a>
+<a href="https://www.hackerrank.com/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="deepak0000" height="30"/></a>
+<a href="https://www.hackerearth.com/@indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@p.manideepak.19cse" height="30"  /></a>
+<a href="https://dev.to/indradhar" target="blank"><img align="center" src="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="deepakperla" height="30"  /></a>
+
+</p>
 ### Skills: C / C++ / JAVA / PYTHON 
-
-### Connect with me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/indradhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/indradhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/indradhar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/indradhar?igshid=1kub6v58weg10/)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indradhar&show_icons=true&theme=radical)
