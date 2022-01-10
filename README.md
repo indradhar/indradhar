@@ -2,7 +2,7 @@
 
 
 ### Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> My Name is Indradhar
-#### Computer Science Undergrad currently working on BlockChain & Machine Leaning in parallel to WebDev
+#### Computer Science Undergrad currently working on BlockChain & Machine Leaning in Addition with WebDev
 
 You Can Find my course projects which are related to BlockChain, Machine Learning, Vulnerability Assessment and some Research Projects in addition to that there are some proposed methodologies and concepts which are related to computer science domain. 
 If you find my projects are helpful, then don't forget to follow me for more.
